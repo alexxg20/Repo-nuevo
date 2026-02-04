@@ -1,0 +1,1 @@
+Funcionalidad para cambiar colores del juego
