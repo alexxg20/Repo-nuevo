@@ -2,5 +2,5 @@
 
 Habituarnos al ciclo de trabajo con Git
 
-cambio B
+linea de A
 
