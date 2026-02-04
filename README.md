@@ -7,3 +7,4 @@ Linea añadida por estudiante A
 Linea añadida por estudiante B
 
 Nueva funcionalidad añadida: customización de los colores del juego.
+
