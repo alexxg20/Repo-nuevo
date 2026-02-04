@@ -1,0 +1,1 @@
+Funcionalidad para rotar piezas con el ratón
