@@ -6,5 +6,4 @@ Habituarnos al ciclo de trabajo con Git
 Linea añadida por estudiante A
 Linea añadida por estudiante B
 
-otra linea mas
-otro cambio mas
+Nueva funcionalidad añadida: customización de los colores del juego.
